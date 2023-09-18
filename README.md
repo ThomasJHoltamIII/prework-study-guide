@@ -11,7 +11,7 @@ Simply Download and open the "Index.html" in google, you can inspect the console
 
 ## Credits
 
-Made possible by Denver Universitys Bootcamp prework.
+Made possible by Denver Universities Bootcamp prework.
 
 ## License
 
@@ -41,7 +41,7 @@ SOFTWARE.
 
 ## PS
 
-This was actually more fun than I anticipated, I was pretty worried it would be majorly hard. I suppose the ramp up will come later in the actual course, however I was pleased to find out that the programming I had done in High School, which was mostly in a modified JavaScript language, was hugley helpfull in following along with the coursework that helped me build this studyguide. I am looking forward to ramping up and to look back on this as a starting point. Its always exciting to start on something duanting and I hope to one day have a sharp skillset that started right here. Im pretty sure maybe only a future instructor will ever give this README a passing glace, and if so or if not I hope the reader is well.
+This was actually more fun than I anticipated, I was pretty worried it would be majorly hard. I suppose the ramp up will come later in the actual course, however I was pleased to find out that the programming I had done in High School, which was mostly in a modified JavaScript language, was hugely helpful in following along with the coursework that helped me build this study guide. I am looking forward to ramping up and to look back on this as a starting point. It's always exciting to start on something daunting and I hope to one day have a sharp skill set that started right here. I'm pretty sure maybe only a future instructor will ever give this README a passing glance, and if so or if not I hope the reader is well.
 
 Thanks for reading!
 
